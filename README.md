@@ -1,1 +1,4 @@
-# Maxfit61-Case
+# Maxfit61 Acrylic Case
+Supported Mounting System:
+- Sandwich Mount
+- Gasket Mount
