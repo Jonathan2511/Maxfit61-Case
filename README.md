@@ -2,3 +2,4 @@
 Supported Mounting System:
 - Sandwich Mount
 - Gasket Mount
+- Top Mount
